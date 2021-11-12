@@ -1,16 +1,15 @@
 import '../../../bussiness_logic/blocs/product/product_bloc.dart';
 import '../../../data_layer/models/Product.dart';
 
-import 'components/bodyhome.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../constants.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:get/get.dart';
 import 'package:flutter_offline/flutter_offline.dart';
 
 import 'components/no_internet_screen.dart';
+//98//
 
 class HomeScreen extends StatefulWidget {
   static const String routeName = '/';
