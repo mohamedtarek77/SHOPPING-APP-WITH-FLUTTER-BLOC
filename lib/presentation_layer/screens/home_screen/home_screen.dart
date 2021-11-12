@@ -8,8 +8,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:flutter_offline/flutter_offline.dart';
 
+//56478//
+
 import 'components/no_internet_screen.dart';
-//98//
 
 class HomeScreen extends StatefulWidget {
   static const String routeName = '/';

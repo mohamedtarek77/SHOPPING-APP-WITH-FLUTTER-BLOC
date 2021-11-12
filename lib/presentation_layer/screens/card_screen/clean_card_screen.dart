@@ -23,7 +23,6 @@ class CleanCartScreen extends StatelessWidget {
   }
 
   // const CartScreen({Key? key}) : super(key: key);
-  bool _isordered = false;
 
   @override
   Widget build(BuildContext context) {
