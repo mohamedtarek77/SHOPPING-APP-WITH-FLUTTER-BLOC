@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+to show my app i uploaded my apk whose name is app-release
+ 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
